@@ -18,9 +18,9 @@ Segue um trecho mostrando como deve ser implementada a função:
 
 Na entrada dos números deve ser feito o tratamento de exceções, para que seja tratado os casos que não sejam digitados números.
 
-Os números digitados devem ser armazenados em uma lista e depois de encerrar, mostrar a lista, o maior número, o menor número e a média dos números.
-
 O programa deve ficar em loop, solicitando ao usuário os valores e a operação até que o usuário digite s para sair.
+
+Os números digitados devem ser armazenados em uma lista e depois de encerrar, mostrar a lista, o maior número, o menor número e a média dos números.
 
 '''
 
